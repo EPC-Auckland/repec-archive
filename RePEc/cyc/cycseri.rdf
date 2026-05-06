@@ -1,7 +1,9 @@
 Template-type: ReDIF-Series 1.0
-Name: XXX
+Name: Economic Policy Center (EPC) Working Paper Series
 Type: ReDIF-Paper
-Provider-Name: XXX
-Provider-Institution: RePEc:edi:ceprdus
+Provider-Name: Economic Policy Center (EPC), University of Auckland
+Provider-Homepage: https://www.example.edu/
+Maintainer-Name: Alexandre Dmitriev
 Maintainer-Email: a.dmitriev@auckland.ac.nz
-Handle: RePEc:epo:papers
+Handle: RePEc:cyc:wpaper
+
