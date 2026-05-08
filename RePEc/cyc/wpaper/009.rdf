@@ -1,0 +1,16 @@
+Template-Type: ReDIF-Paper 1.0
+Author-Name: Ryan Greenaway-McGrevy
+Author-Name-First: Ryan
+Author-Name-Last: Greenaway-McGrevy
+Author-Name: James Allan Jones
+Author-Name-First: James Allan
+Author-Name-Last: Jones
+Title: Measuring Quality-Adjusted House Prices across Time and Space
+Abstract: We develop new measures of quality-adjusted house prices that can be used to compare housing costs across different locations and different points in time. The proposed measures, which we call fixed attribute house prices (FAHPs), permit users to make more informed judgements about the price of housing in different locations by holding housing attributes such as floorspace, land area and proximity to employment fixed when making comparisons between different urban areas. The measure is based on hedonic regressions that permit the price of housing attributes to vary between different locations and time periods of interest. The estimated hedonic functions can then be used to price a dwelling with identical attributes in these different locations and at different points in time. The measure can therefore account for compositional shifts in transacted properties over time that can distort price measures based on median or arithmetic averages of sales prices. But, unlike repeat sales methods, it can also account for compositional differences between housing in different regions. We showcase the method by comparing the costs across the different urban centres to purchase a house with the median attributes of the country’s urban housing stock. Currently in Auckland, New Zealand’s most expensive city, a house with the NZ median attributes cost 21-29% more than the recorded median sales value in the region. Controlling for the attributes of the housing stock suggests that Auckland housing is more expensive than the dollar amount implied by the conventional median sales price. Intuitively, Auckland housing is, on average, smaller and requires longer commutes than houses in other urban centres, and thus its housing stock is more expensive once its lesser quality is accounted for.
+Creation-Date: 2022-07-20
+File-URL: https://www.auckland.ac.nz/assets/business/our-research/docs/economic-policy-centre/Measuring%20quality-adjusted%20house%20prices%20across%20time%20and%20space.pdf
+File-Format: Application/pdf
+Number: 009
+Keywords: House Prices; Hedonic Imputation Price Index; Quality-Adjusted House Prices; Fixed Attribute House Prices
+Classification-JEL: R31; E31
+Handle: RePEc:cyc:wpaper:009
