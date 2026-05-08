@@ -1,0 +1,16 @@
+Template-Type: ReDIF-Paper 1.0
+Author-Name: Ryan Greenaway-McGrevy
+Author-Name-First: Ryan
+Author-Name-Last: Greenaway-McGrevy
+Author-Name: James Jones
+Author-Name-First: James
+Author-Name-Last: Jones
+Title: Evaluating Limited Influence Estimators of Core Inflation in New Zealand
+Abstract: Core inflation is commonly understood as the component in headline inflation that is expected to persist over the medium term. This paper evaluates the recent performance of limited influence estimators of CPI inflation in New Zealand over the 2000 to 2022 period. We show that an asymmetric trimmed mean that removes 19% of the sample from the lower tail and 20% from the upper tail minimizes squared errors when a conventional ex-post smoothed measure of headline inflation is used as a proxy for core inflation. These weights are very close to the 20% trimmed mean published by Statistics NZ, suggesting that this measure currently offers the most reliable measure of core inflation in the New Zealand context.
+Creation-Date: 2022-07
+File-URL: https://www.auckland.ac.nz/assets/business/our-research/docs/economic-policy-centre/Evaluating%20limited%20influence%20estimators%20of%20core%20inflation%20in%20New%20Zealand.pdf
+File-Format: Application/pdf
+Number: 010
+Keywords: Core Inflation; Trimmed Mean; Median Estimator; Limited Influence Estimator
+Classification-JEL: E31; E37; C33
+Handle: RePEc:cyc:wpaper:010
